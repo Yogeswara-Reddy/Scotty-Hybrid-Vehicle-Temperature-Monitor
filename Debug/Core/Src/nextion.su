@@ -1,0 +1,3 @@
+../Core/Src/nextion.c:11:6:Nextion_SendCommand	16	static
+../Core/Src/nextion.c:18:13:Nextion_SetColor	88	static
+../Core/Src/nextion.c:25:6:Nextion_UpdateDisplay	216	static

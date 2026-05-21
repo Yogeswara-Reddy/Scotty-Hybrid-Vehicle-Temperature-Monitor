@@ -1,0 +1,4 @@
+../Core/Src/modbus_rtu.c:6:13:RS485_TransmitMode	8	static
+../Core/Src/modbus_rtu.c:12:13:RS485_ReceiveMode	8	static
+../Core/Src/modbus_rtu.c:18:10:Modbus_CRC16	24	static
+../Core/Src/modbus_rtu.c:39:6:Modbus_SendTemperature	32	static
